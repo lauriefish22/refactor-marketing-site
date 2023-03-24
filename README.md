@@ -6,6 +6,15 @@
 -[CSS] (https://www.w3schools.com/css/default.asp)
 
 
+## Live site 
+https://lauriefish22.github.io/refactor-marketing-site/
+## Github 
+https://github.com/lauriefish22/refactor-marketing-site
+
+## Contact
+Laurie Fish
+iamlauriefish@mgmail.com
+
 ## Description
 
 The goal of this website refactor was to optimize the site for SEO and to clean up any code that is not working and/or not using semantic HTML.  All links and function will be adjusted if needed to create a clean, functioning website that is useful to the user and show clean code to help any additional programmers in the future.  Comments will be present to clearly show the reason for the adjustments to provide any clarification needed.  
@@ -53,12 +62,4 @@ Using consistent semantic HTML makes adjustments and debugging easier for everyo
     </footer>```
 
 
-
-
-
-
-
-
-
-link to live
 
