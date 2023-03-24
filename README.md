@@ -3,7 +3,7 @@
 ## Technology used
 
 -[HTML](https://www.w3schools.com/html/html_elements.asp)
--[CSS] (https://www.w3schools.com/css/default.asp)
+-[CSS](https://www.w3schools.com/css/default.asp)
 
 
 ## Live site 
