@@ -75,7 +75,8 @@ p {
     margin-left: 20px;
     margin-top: 825px;
 }
-/* changed padding by 3px to make it even with adjacent box */
+/* changed padding by 3px to make it even with adjacent boxes */
+/* changed color to match with adjacent boxes */
 .benefits {
     margin-right: 20px;
     padding: 33px;
